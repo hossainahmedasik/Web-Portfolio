@@ -46,3 +46,28 @@ section{
     background-size: cover;
     background-position: right;
 }
+.singel-experiance{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+    background-color: white;
+}
+.experiance-area{
+    background-image: url("image/e.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(45deg,Lightsalmon,tomato);
+    border-image-slice: 1;
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
